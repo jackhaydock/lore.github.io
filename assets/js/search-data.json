@@ -1,0 +1,108 @@
+{
+  "0": {
+    "id": "0",
+    "title": "Age of Chaos",
+    "content": "",
+    "url": "http://localhost:4000/ages/chaos",
+    "relUrl": "/ages/chaos"
+  },
+  "1": {
+    "id": "1",
+    "title": "Age of Heroes",
+    "content": "",
+    "url": "http://localhost:4000/ages/heroes",
+    "relUrl": "/ages/heroes"
+  },
+  "2": {
+    "id": "2",
+    "title": "Age of Empires",
+    "content": "",
+    "url": "http://localhost:4000/ages/empires",
+    "relUrl": "/ages/empires"
+  },
+  "3": {
+    "id": "3",
+    "title": "Age of Kings",
+    "content": "",
+    "url": "http://localhost:4000/ages/kings",
+    "relUrl": "/ages/kings"
+  },
+  "4": {
+    "id": "4",
+    "title": "Age of Ships",
+    "content": "",
+    "url": "http://localhost:4000/ages/ships",
+    "relUrl": "/ages/ships"
+  },
+  "5": {
+    "id": "5",
+    "title": "",
+    "content": "404 Page not found :( The requested page could not be found.",
+    "url": "http://localhost:4000/404.html",
+    "relUrl": "/404.html"
+  },
+  "6": {
+    "id": "6",
+    "title": "Age of Machines",
+    "content": "",
+    "url": "http://localhost:4000/ages/machines",
+    "relUrl": "/ages/machines"
+  },
+  "7": {
+    "id": "7",
+    "title": "Age of Stars",
+    "content": "",
+    "url": "http://localhost:4000/ages/stars",
+    "relUrl": "/ages/stars"
+  },
+  "8": {
+    "id": "8",
+    "title": "Ages",
+    "content": "The Ages TODO: Explain calendar",
+    "url": "http://localhost:4000/ages/",
+    "relUrl": "/ages/"
+  },
+  "9": {
+    "id": "9",
+    "title": "Atheistic Ceitheism",
+    "content": "",
+    "url": "http://localhost:4000/faiths/four/atheistic",
+    "relUrl": "/faiths/four/atheistic"
+  },
+  "10": {
+    "id": "10",
+    "title": "Faiths",
+    "content": "",
+    "url": "http://localhost:4000/faiths/faiths",
+    "relUrl": "/faiths/faiths"
+  },
+  "11": {
+    "id": "11",
+    "title": "",
+    "content": "Welcome!",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },
+  "12": {
+    "id": "12",
+    "title": "Meosic Ceitheism",
+    "content": "",
+    "url": "http://localhost:4000/faiths/four/meos",
+    "relUrl": "/faiths/four/meos"
+  },
+  "13": {
+    "id": "13",
+    "title": "The Four",
+    "content": "",
+    "url": "http://localhost:4000/faiths/four",
+    "relUrl": "/faiths/four"
+  },
+  "14": {
+    "id": "14",
+    "title": "Olectic Ceitheism",
+    "content": "",
+    "url": "http://localhost:4000/faiths/four/olectic",
+    "relUrl": "/faiths/four/olectic"
+  }
+  
+}
