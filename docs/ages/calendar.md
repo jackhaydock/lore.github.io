@@ -30,7 +30,7 @@ Years can also be written as the number of years since the beginning of the age 
 This is 400 years since the beginning of the 2nd age (i.e. the [Age of Empires](/404)) or 6400AE.
 
 ### Years before age/epoch
-Sometimes referring to a date by what comes after is useful, such as referring to a date before the epoch. Foe this the following notation can be used:
+Sometimes referring to a date by what comes after is useful, such as referring to a date before the epoch. For this the following notation can be used:
 ```
 200 BE
 or
