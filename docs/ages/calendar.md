@@ -13,39 +13,46 @@ The most commonly used calendar in [Versera](/404) is the Diamon calendar. This 
 
 Years
 ---
-The notation for years in the Diamon Calendar as follows:
+In the Diamon system there are several ways to write the year:
 
+### Years since epoch
+The simplest, and most common method of writing the year is to simply write the number of years since the epoch like so:
 ```
-age-year
+1200 AE
 ```
+This is 1200 years after epoch.
 
-For example the 400th year of the 2nd age (the [Age of Empires](/ages/empires)) would be:
+### Years since beginning of age
+Years can also be written as the number of years since the beginning of the age in which the year resides:
+```
+400 A2
+```
+This is 400 years since the beginning of the 2nd age (i.e. the [Age of Empires](/404)) or 6400AE.
 
+### Years before age/epoch
+Sometimes referring to a date by what comes after is useful, such as referring to a date before the epoch. Foe this the following notation can be used:
 ```
-2-400
+200 BE
+or
+200 B2
 ```
-
-For years prior to the specified age, the following can be used:
-```
-1-400b
-```
-The above signifies 400 years before the beginning of the 1st age.
+These refer to 200 years before the epoch and 200 years before the beginning of the 2nd age respectfully.
 
 ---
 
 Months
 ---
-There are ten months in a Diamon year, each ending at the eclipse of the two moons, when [Caeru](/404) passes behind [Rubur](/404) and hides for a day. Each month is composed of 6 weeks and 36 days. The names of these months are:
-1.
-2.
-3.
-4.
-5.
-6.
+There are ten months in a Diamon year, each roughly ending at the eclipse of the two moons, when [Caeru](/404) passes behind [Rubur](/404) and hides for a day. Each month is composed of 6 weeks and 36 days with odd numbered months having 37 days. The names of these months are:
+1. Aune
+2. Dairu
+3. Tritus
+4. Ceinir
+5. Hogith
+6. Penlir
 7. Rubol
-8.
-9.
-10.
+8. Cache
+9. Orith
+10. Deius
 
 ---
 
@@ -62,9 +69,8 @@ There are 6 days in a week:
 The ordering of the animals comes from the story of [TODO](/404).
 
 ---
-Using the above, the 14th day of the 7th month of the 674th of the 3rd age, could be written as:
-```
-3-674-7-14
-or
-14th Rubol 3-674
-```
+Using the above, the 14th day of the 7th month of the 674th of the 3rd age, could be written in the following ways:
+- 14/7/10,874 AE
+- 14/7/674 A3
+- 14th Rubol 10,874 AE
+- 14th Rubol 674 A3
