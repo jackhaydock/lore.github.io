@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Ages
+title:  Relics
 date:   2019-06-05 23:37:26 +0100
+permalink: /relics/
 has_children: true
-permalink: /ages/
-nav_order: 1
+nav_order: 3
 ---
