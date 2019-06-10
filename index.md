@@ -4,5 +4,5 @@
 
 layout: home
 ---
-Welcome!
+Welcome to Versera!
 ===

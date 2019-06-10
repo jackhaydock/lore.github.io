@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Faiths
+title:  The Four
 date:   2019-06-05 23:37:26 +0100
+parent: Theology
 has_children: true
-permalink: /faiths/faiths
-nav_order: 2
+permalink: /theology/four
 ---

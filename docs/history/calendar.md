@@ -2,9 +2,9 @@
 layout: post
 title:  Diamon Calendar
 date:   2019-06-05 23:37:26 +0100
-permalink: /ages/calendar
-parent: Ages
-nav_order: -1
+permalink: /history/calendar
+parent: History
+nav_order: 0
 ---
 
 The most commonly used calendar in [Versera](/404) is the Diamon calendar. This calendar uses the creation of [The Red Wall](/relics/redwall) as it's epoch, with every before the wall being known as the [Age of Chaos](/ages/chaos) and everything afterwards being split into multiple ages.

@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  The Four
+title:  Misc
 date:   2019-06-05 23:37:26 +0100
-parent: Faiths
+permalink: /misc/
 has_children: true
-permalink: /faiths/four
+nav_order: 3
 ---

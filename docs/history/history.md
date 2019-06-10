@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Ages
+title:  History
 date:   2019-06-05 23:37:26 +0100
 has_children: true
-permalink: /ages/
-nav_order: 1
+permalink: /history/
+nav_order: 0
 ---

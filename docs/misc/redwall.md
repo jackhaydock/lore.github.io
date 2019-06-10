@@ -2,8 +2,8 @@
 layout: post
 title:  The Red Wall
 date:   2019-06-05 23:37:26 +0100
-permalink: /relics/redwall
-parent: Relics
+permalink: /misc/redwall
+parent: Misc
 nav_order: 0
 ---
 
